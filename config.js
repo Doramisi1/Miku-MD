@@ -4,7 +4,7 @@ const chalk = require("chalk")
 global.available = true
 global.autoReadGc = true
 global.autoReadAll = false
-global.antitags = true
+global.antitags = false
 
 
 global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
@@ -23,11 +23,11 @@ global.sessionName = "session"  // -- Don't change otherwise bot will not work -
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
+global.location = "Medan sumut, Indonesia"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/Doramisi1"
 global.lolhuman = "KaysaS"
 
 
@@ -65,9 +65,9 @@ global.mess = {
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
+    waiting: 'sedang diproses...',
     nolink: 'Please provide me *link*, Baka!',
-    error: 'An error occurd!',
+    error: 'error Ada yang salah!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
@@ -77,11 +77,11 @@ global.mess = {
 
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
-    monayawal: 1000
+    free: 1000,
+    monayawal: 10000
 }
    global.rpg = {
-   darahawal: 100,
+   darahawal: 200,
    besiawal: 95,
    goldawal: 30,
    emeraldawal: 8,
@@ -90,7 +90,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 1000
 }
 
 
